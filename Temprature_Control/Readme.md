@@ -1,4 +1,4 @@
-    # Temperature Control Project
+## Temperature Control Project
 
 Temperature Control Project with PIC microcontroller, the project is an implementation of some modules and drivers like (MCAL\ADC driver, MCAL\Interrupts driver, ..) and some electronic devices and units like (ECUAL\LCD, ECUAL\Buzzer).
 
