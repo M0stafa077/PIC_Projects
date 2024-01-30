@@ -1,4 +1,4 @@
-# Temperature Control Project
+    # Temperature Control Project
 
 Temperature Control Project with PIC microcontroller, the project is an implementation of some modules and drivers like (MCAL\ADC driver, MCAL\Interrupts driver, ..) and some electronic devices and units like (ECUAL\LCD, ECUAL\Buzzer).
 
@@ -12,4 +12,4 @@ The project consists of three main layers as follow:
  - **ECUAL Layer :** The Electronic Unit Abstraction Layer contains the drivers of the electronic devices.
 
 ## Application Flow Chart
-<img src="/Flow_Chart.png" alt="FlowChart" width="750" height="400">
+<img src="Flow_Chart.png" alt="FlowChart" width="750" height="400">
