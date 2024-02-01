@@ -12,4 +12,4 @@ The project consists of three main layers as follow:
  - **ECUAL Layer :** The Electronic Unit Abstraction Layer contains the drivers of the electronic devices.
 
 ## Application Simulation
-<img src="/Simulation/Sim_page.jpg" alt="Simulation" width="700" height="500">
+<img src="Simulation/Sim_page.jpg" alt="Simulation" width="700" height="500">
