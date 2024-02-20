@@ -14,7 +14,4 @@ The project consists of three main layers as follow:
                      of the electronic devices.
 
 ## Application Simulation
-<video width="750" height="450" controls>
-    <source src="Simulation/Simulation_Video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+https://github.com/M0stafa077/PIC_Projects/assets/125895185/615a846a-4468-4536-be21-e939b75d54bb
