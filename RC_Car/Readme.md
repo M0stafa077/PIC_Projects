@@ -14,4 +14,4 @@ The project consists of three main layers as follow:
                      of the electronic devices.
 
 ## Application Simulation
-https://github.com/M0stafa077/PIC_Projects/assets/125895185/615a846a-4468-4536-be21-e939b75d54bb
+https://github.com/M0stafa077/PIC_Projects/assets/125895185/9bf10ad6-a03f-4f14-8000-efff662c6891
